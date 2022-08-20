@@ -1,0 +1,102 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>MISA.CUKCUK.Api</name>
+    </assembly>
+    <members>
+        <member name="T:MISA.CUKCUK.Api.Controllers.BaseController`1">
+            <summary>
+            Lớp controller cơ sở
+            </summary>
+            <typeparam name="T">Tên bảng trong db</typeparam>
+            Created by: NVCHINH (07/08/2022)
+        </member>
+        <member name="M:MISA.CUKCUK.Api.Controllers.BaseController`1.Get">
+            <summary>
+            Lấy toàn bộ dữ liệu
+            </summary>
+            <returns>Mảng dữ liệu</returns>
+            CreatedBy:NVCHINH(10/08/2022)
+        </member>
+        <member name="M:MISA.CUKCUK.Api.Controllers.BaseController`1.CheckCode(System.String,System.String,System.String)">
+            <summary>
+            Check trùng thuộc tính
+            </summary>
+            <returns>0:Code khoogn tồn tại,1:code tồn tại,ID không tt, 2: Tồn tại Code và ID</returns>
+            CreatedBy:NVCHINH(10/08/2022)
+        </member>
+        <member name="M:MISA.CUKCUK.Api.Controllers.BaseController`1.Insert(`0)">
+            <summary>
+            Thêm bản ghi
+            </summary>
+            <param name="entity">Bản ghi được thêm</param>
+            <returns>sô bản ghi được thêm</returns>
+            CreatedBy:NVCHINH(10/08/2022)
+        </member>
+        <member name="M:MISA.CUKCUK.Api.Controllers.BaseController`1.HandleException(System.Exception)">
+            <summary>
+            Hàm refull
+            </summary>
+            <param name="ex">mã lỗi</param>
+            <returns>lỗi</returns>
+        </member>
+        <member name="T:MISA.CUKCUK.Api.Controllers.DishController">
+            <summary>
+            Controller xử lý liên quan đến món ăn
+            </summary>
+            Created by: NVCHINH (08/08/2022)
+        </member>
+        <member name="M:MISA.CUKCUK.Api.Controllers.DishController.Insert(MISA.CUKCUK.Core.Models.DMDataInsert)">
+            <summary>
+            Thêm món ăn đầy đủ
+            </summary>
+            <param name="data"></param>
+            <returns>số món ăn đc thêm</returns>
+            CreatedBy:NVCHINH(10/08/2022)
+        </member>
+        <member name="M:MISA.CUKCUK.Api.Controllers.DishController.Fillter(System.Int32,System.Int32,System.String,System.String)">
+            <summary>
+            Tìm kiếm phân trang
+            </summary>
+            <param name="pageSize">Số bản ghi/trang</param>
+            <param name="pageIndex">Số thứ tự trang</param>
+            <param name="sort">Câu lênh sort </param>
+            <param name="where">Câu lênh tìm kiếm</param>
+            <returns>Mảng dữ liệu đã được phân trang,tìm kiếm</returns>
+            CreatedBy:NVCHINH(10/08/2022)
+        </member>
+        <member name="M:MISA.CUKCUK.Api.Controllers.DishController.Delete(MISA.CUKCUK.Core.Models.Dish)">
+            <summary>
+            Xóa món ăn 
+            </summary>
+            <param name="dish"></param>
+            <returns>Số lượng món ăn được xóa</returns>
+            CreatedBy:NVCHINH(10/08/2022)
+        </member>
+        <!-- Badly formed XML comment ignored for member "M:MISA.CUKCUK.Api.Controllers.DishController.Update(MISA.CUKCUK.Core.Models.Dish)" -->
+        <member name="M:MISA.CUKCUK.Api.Controllers.DishController.UploadImage(Microsoft.AspNetCore.Http.IFormFile)">
+            <summary>
+            Thêm ảnh
+            </summary>
+            <param name="image"></param>
+            <returns></returns>
+            CreatedBy:NVCHINH(10/08/2022)
+        </member>
+        <member name="M:MISA.CUKCUK.Api.Controllers.DishMaterialController.Insert(System.Collections.Generic.List{MISA.CUKCUK.Core.Models.DishMaterial})">
+            <summary>
+            INsert nhiều bản ghi
+            </summary>
+            <param name="material">List NVL được thêm</param>
+            <returns>số bản ghi được thêm</returns>
+            CreatedBy:NVCHINH(10/08/2022)
+        </member>
+        <member name="M:MISA.CUKCUK.Api.Controllers.DishMaterialController.Get(System.String)">
+            <summary>
+            Tìm kiếm material theo Dish ID
+            </summary>
+            <param name="DishId"></param>
+            <returns>Mảng Materia;</returns>
+            CreatedBy:NVCHINH(10/08/2022)
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,33 @@
+D:\Workspace\Thực tâp\Bài tập giai đoạn 2\MISA.CUKCUK.Api\MISA.CUKCUK.Core\bin\Debug\net6.0\MISA.CUKCUK.Core.deps.json
+D:\Workspace\Thực tâp\Bài tập giai đoạn 2\MISA.CUKCUK.Api\MISA.CUKCUK.Core\bin\Debug\net6.0\MISA.CUKCUK.Core.dll
+D:\Workspace\Thực tâp\Bài tập giai đoạn 2\MISA.CUKCUK.Api\MISA.CUKCUK.Core\bin\Debug\net6.0\MISA.CUKCUK.Core.pdb
+D:\Workspace\Thực tâp\Bài tập giai đoạn 2\MISA.CUKCUK.Api\MISA.CUKCUK.Core\obj\Debug\net6.0\MISA.CUKCUK.Core.csproj.AssemblyReference.cache
+D:\Workspace\Thực tâp\Bài tập giai đoạn 2\MISA.CUKCUK.Api\MISA.CUKCUK.Core\obj\Debug\net6.0\MISA.CUKCUK.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\Thực tâp\Bài tập giai đoạn 2\MISA.CUKCUK.Api\MISA.CUKCUK.Core\obj\Debug\net6.0\MISA.CUKCUK.Core.AssemblyInfoInputs.cache
+D:\Workspace\Thực tâp\Bài tập giai đoạn 2\MISA.CUKCUK.Api\MISA.CUKCUK.Core\obj\Debug\net6.0\MISA.CUKCUK.Core.AssemblyInfo.cs
+D:\Workspace\Thực tâp\Bài tập giai đoạn 2\MISA.CUKCUK.Api\MISA.CUKCUK.Core\obj\Debug\net6.0\MISA.CUKCUK.Core.csproj.CoreCompileInputs.cache
+D:\Workspace\Thực tâp\Bài tập giai đoạn 2\MISA.CUKCUK.Api\MISA.CUKCUK.Core\obj\Debug\net6.0\MISA.CUKCUK.Core.dll
+D:\Workspace\Thực tâp\Bài tập giai đoạn 2\MISA.CUKCUK.Api\MISA.CUKCUK.Core\obj\Debug\net6.0\refint\MISA.CUKCUK.Core.dll
+D:\Workspace\Thực tâp\Bài tập giai đoạn 2\MISA.CUKCUK.Api\MISA.CUKCUK.Core\obj\Debug\net6.0\MISA.CUKCUK.Core.pdb
+D:\Workspace\Thực tâp\Bài tập giai đoạn 2\MISA.CUKCUK.Api\MISA.CUKCUK.Core\obj\Debug\net6.0\ref\MISA.CUKCUK.Core.dll
+D:\Workspace\Thực tâp\Bài tập giai đoạn 2\MISA.CUKCUK.Api\MISA.CUKCUK.Core\obj\Debug\net6.0\MISA.CUKCUK.Core.Resources.Resource.resources
+D:\Workspace\Thực tâp\Bài tập giai đoạn 2\MISA.CUKCUK.Api\MISA.CUKCUK.Core\obj\Debug\net6.0\MISA.CUKCUK.Core.csproj.GenerateResource.cache
+E:\Document\NVCHINH\GD2\NguyenVanChinh\MISA.CUKCUK.Api\MISA.CUKCUK.Core\bin\Debug\net6.0\MISA.CUKCUK.Core.deps.json
+E:\Document\NVCHINH\GD2\NguyenVanChinh\MISA.CUKCUK.Api\MISA.CUKCUK.Core\bin\Debug\net6.0\MISA.CUKCUK.Core.dll
+E:\Document\NVCHINH\GD2\NguyenVanChinh\MISA.CUKCUK.Api\MISA.CUKCUK.Core\bin\Debug\net6.0\MISA.CUKCUK.Core.pdb
+E:\Document\NVCHINH\GD2\NguyenVanChinh\MISA.CUKCUK.Api\MISA.CUKCUK.Core\obj\Debug\net6.0\MISA.CUKCUK.Core.csproj.AssemblyReference.cache
+E:\Document\NVCHINH\GD2\NguyenVanChinh\MISA.CUKCUK.Api\MISA.CUKCUK.Core\obj\Debug\net6.0\MISA.CUKCUK.Core.csproj.GenerateResource.cache
+E:\Document\NVCHINH\GD2\NguyenVanChinh\MISA.CUKCUK.Api\MISA.CUKCUK.Core\obj\Debug\net6.0\MISA.CUKCUK.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\Document\NVCHINH\GD2\NguyenVanChinh\MISA.CUKCUK.Api\MISA.CUKCUK.Core\obj\Debug\net6.0\MISA.CUKCUK.Core.AssemblyInfoInputs.cache
+E:\Document\NVCHINH\GD2\NguyenVanChinh\MISA.CUKCUK.Api\MISA.CUKCUK.Core\obj\Debug\net6.0\MISA.CUKCUK.Core.AssemblyInfo.cs
+E:\Document\NVCHINH\GD2\NguyenVanChinh\MISA.CUKCUK.Api\MISA.CUKCUK.Core\obj\Debug\net6.0\MISA.CUKCUK.Core.csproj.CoreCompileInputs.cache
+E:\Document\NVCHINH\GD2\NguyenVanChinh\MISA.CUKCUK.Api\MISA.CUKCUK.Core\obj\Debug\net6.0\MISA.CUKCUK.Core.dll
+E:\Document\NVCHINH\GD2\NguyenVanChinh\MISA.CUKCUK.Api\MISA.CUKCUK.Core\obj\Debug\net6.0\refint\MISA.CUKCUK.Core.dll
+E:\Document\NVCHINH\GD2\NguyenVanChinh\MISA.CUKCUK.Api\MISA.CUKCUK.Core\obj\Debug\net6.0\MISA.CUKCUK.Core.pdb
+E:\Document\NVCHINH\GD2\NguyenVanChinh\MISA.CUKCUK.Api\MISA.CUKCUK.Core\obj\Debug\net6.0\ref\MISA.CUKCUK.Core.dll
+E:\Document\NVCHINH\GD2\NguyenVanChinh\MISA.CUKCUK.Api\MISA.CUKCUK.Core\obj\Debug\net6.0\MISA.CUKCUK.Core.Resources.Dish.resources
+E:\Document\NVCHINH\GD2\NguyenVanChinh\MISA.CUKCUK.Api\MISA.CUKCUK.Core\obj\Debug\net6.0\MISA.CUKCUK.Core.Resources.Resources.resources
+E:\Document\NVCHINH\GD2\NguyenVanChinh\MISA.CUKCUK.Api\MISA.CUKCUK.Core\obj\Debug\net6.0\MISA.CUKCUK.Core.Resources.DishGroup.resources
+E:\Document\NVCHINH\GD2\NguyenVanChinh\MISA.CUKCUK.Api\MISA.CUKCUK.Core\obj\Debug\net6.0\MISA.CUKCUK.Core.Resources.Unit.resources
+E:\Document\NVCHINH\GD2\NguyenVanChinh\MISA.CUKCUK.Api\MISA.CUKCUK.Core\obj\Debug\net6.0\MISA.CUKCUK.Core.Resources.Kitchen.resources
+E:\Document\NVCHINH\GD2\NguyenVanChinh\MISA.CUKCUK.Api\MISA.CUKCUK.Core\obj\Debug\net6.0\MISA.CUKCUK.Core.Resources.Material.resources

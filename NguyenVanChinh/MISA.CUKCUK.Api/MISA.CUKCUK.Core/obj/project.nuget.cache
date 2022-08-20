@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "iu5p1UkN7ktiasFa6kWDl4xcjCxJeP6hgo9pBJfPxFHMgHHu5w3OttJGECLqQ97YKQNhKxwGzg5nlYvsrHpQlg==",
+  "success": true,
+  "projectFilePath": "E:\\Document\\NVCHINH\\GD2\\NguyenVanChinh\\MISA.CUKCUK.Api\\MISA.CUKCUK.Core\\MISA.CUKCUK.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.17\\microsoft.aspnetcore.http.features.5.0.17.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.1\\microsoft.extensions.primitives.5.0.1.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\mysqlconnector\\2.1.11\\mysqlconnector.2.1.11.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\system.io.pipelines\\5.0.2\\system.io.pipelines.5.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

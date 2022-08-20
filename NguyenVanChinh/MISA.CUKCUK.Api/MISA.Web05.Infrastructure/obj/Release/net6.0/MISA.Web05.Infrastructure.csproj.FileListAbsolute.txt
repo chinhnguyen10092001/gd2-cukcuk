@@ -1,0 +1,15 @@
+E:\Document\NVCHINH\GD2\NguyenVanChinh\MISA.CUKCUK.Api\MISA.Web05.Infrastructure\bin\Release\net6.0\MISA.Web05.Infrastructure.deps.json
+E:\Document\NVCHINH\GD2\NguyenVanChinh\MISA.CUKCUK.Api\MISA.Web05.Infrastructure\bin\Release\net6.0\MISA.Web05.Infrastructure.dll
+E:\Document\NVCHINH\GD2\NguyenVanChinh\MISA.CUKCUK.Api\MISA.Web05.Infrastructure\bin\Release\net6.0\MISA.Web05.Infrastructure.pdb
+E:\Document\NVCHINH\GD2\NguyenVanChinh\MISA.CUKCUK.Api\MISA.Web05.Infrastructure\bin\Release\net6.0\MISA.CUKCUK.Core.dll
+E:\Document\NVCHINH\GD2\NguyenVanChinh\MISA.CUKCUK.Api\MISA.Web05.Infrastructure\bin\Release\net6.0\MISA.CUKCUK.Core.pdb
+E:\Document\NVCHINH\GD2\NguyenVanChinh\MISA.CUKCUK.Api\MISA.Web05.Infrastructure\obj\Release\net6.0\MISA.Web05.Infrastructure.csproj.AssemblyReference.cache
+E:\Document\NVCHINH\GD2\NguyenVanChinh\MISA.CUKCUK.Api\MISA.Web05.Infrastructure\obj\Release\net6.0\MISA.Web05.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\Document\NVCHINH\GD2\NguyenVanChinh\MISA.CUKCUK.Api\MISA.Web05.Infrastructure\obj\Release\net6.0\MISA.Web05.Infrastructure.AssemblyInfoInputs.cache
+E:\Document\NVCHINH\GD2\NguyenVanChinh\MISA.CUKCUK.Api\MISA.Web05.Infrastructure\obj\Release\net6.0\MISA.Web05.Infrastructure.AssemblyInfo.cs
+E:\Document\NVCHINH\GD2\NguyenVanChinh\MISA.CUKCUK.Api\MISA.Web05.Infrastructure\obj\Release\net6.0\MISA.Web05.Infrastructure.csproj.CoreCompileInputs.cache
+E:\Document\NVCHINH\GD2\NguyenVanChinh\MISA.CUKCUK.Api\MISA.Web05.Infrastructure\obj\Release\net6.0\MISA.Web05.Infrastructure.csproj.CopyComplete
+E:\Document\NVCHINH\GD2\NguyenVanChinh\MISA.CUKCUK.Api\MISA.Web05.Infrastructure\obj\Release\net6.0\MISA.Web05.Infrastructure.dll
+E:\Document\NVCHINH\GD2\NguyenVanChinh\MISA.CUKCUK.Api\MISA.Web05.Infrastructure\obj\Release\net6.0\refint\MISA.Web05.Infrastructure.dll
+E:\Document\NVCHINH\GD2\NguyenVanChinh\MISA.CUKCUK.Api\MISA.Web05.Infrastructure\obj\Release\net6.0\MISA.Web05.Infrastructure.pdb
+E:\Document\NVCHINH\GD2\NguyenVanChinh\MISA.CUKCUK.Api\MISA.Web05.Infrastructure\obj\Release\net6.0\ref\MISA.Web05.Infrastructure.dll

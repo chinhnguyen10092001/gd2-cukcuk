@@ -1,0 +1,75 @@
+D:\Workspace\Thực tâp\Bài tập giai đoạn 2\MISA.CUKCUK.Api\MISA.CUKCUK.Api\bin\Debug\net6.0\appsettings.Development.json
+D:\Workspace\Thực tâp\Bài tập giai đoạn 2\MISA.CUKCUK.Api\MISA.CUKCUK.Api\bin\Debug\net6.0\appsettings.json
+D:\Workspace\Thực tâp\Bài tập giai đoạn 2\MISA.CUKCUK.Api\MISA.CUKCUK.Api\bin\Debug\net6.0\MISA.CUKCUK.Api.exe
+D:\Workspace\Thực tâp\Bài tập giai đoạn 2\MISA.CUKCUK.Api\MISA.CUKCUK.Api\bin\Debug\net6.0\MISA.CUKCUK.Api.deps.json
+D:\Workspace\Thực tâp\Bài tập giai đoạn 2\MISA.CUKCUK.Api\MISA.CUKCUK.Api\bin\Debug\net6.0\MISA.CUKCUK.Api.runtimeconfig.json
+D:\Workspace\Thực tâp\Bài tập giai đoạn 2\MISA.CUKCUK.Api\MISA.CUKCUK.Api\bin\Debug\net6.0\MISA.CUKCUK.Api.dll
+D:\Workspace\Thực tâp\Bài tập giai đoạn 2\MISA.CUKCUK.Api\MISA.CUKCUK.Api\bin\Debug\net6.0\MISA.CUKCUK.Api.pdb
+D:\Workspace\Thực tâp\Bài tập giai đoạn 2\MISA.CUKCUK.Api\MISA.CUKCUK.Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Workspace\Thực tâp\Bài tập giai đoạn 2\MISA.CUKCUK.Api\MISA.CUKCUK.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Workspace\Thực tâp\Bài tập giai đoạn 2\MISA.CUKCUK.Api\MISA.CUKCUK.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Workspace\Thực tâp\Bài tập giai đoạn 2\MISA.CUKCUK.Api\MISA.CUKCUK.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Workspace\Thực tâp\Bài tập giai đoạn 2\MISA.CUKCUK.Api\MISA.CUKCUK.Api\bin\Debug\net6.0\MISA.CUKCUK.Core.dll
+D:\Workspace\Thực tâp\Bài tập giai đoạn 2\MISA.CUKCUK.Api\MISA.CUKCUK.Api\bin\Debug\net6.0\MISA.CUKCUK.Core.pdb
+D:\Workspace\Thực tâp\Bài tập giai đoạn 2\MISA.CUKCUK.Api\MISA.CUKCUK.Api\obj\Debug\net6.0\MISA.CUKCUK.Api.csproj.AssemblyReference.cache
+D:\Workspace\Thực tâp\Bài tập giai đoạn 2\MISA.CUKCUK.Api\MISA.CUKCUK.Api\obj\Debug\net6.0\MISA.CUKCUK.Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\Thực tâp\Bài tập giai đoạn 2\MISA.CUKCUK.Api\MISA.CUKCUK.Api\obj\Debug\net6.0\MISA.CUKCUK.Api.AssemblyInfoInputs.cache
+D:\Workspace\Thực tâp\Bài tập giai đoạn 2\MISA.CUKCUK.Api\MISA.CUKCUK.Api\obj\Debug\net6.0\MISA.CUKCUK.Api.AssemblyInfo.cs
+D:\Workspace\Thực tâp\Bài tập giai đoạn 2\MISA.CUKCUK.Api\MISA.CUKCUK.Api\obj\Debug\net6.0\MISA.CUKCUK.Api.csproj.CoreCompileInputs.cache
+D:\Workspace\Thực tâp\Bài tập giai đoạn 2\MISA.CUKCUK.Api\MISA.CUKCUK.Api\obj\Debug\net6.0\MISA.CUKCUK.Api.MvcApplicationPartsAssemblyInfo.cs
+D:\Workspace\Thực tâp\Bài tập giai đoạn 2\MISA.CUKCUK.Api\MISA.CUKCUK.Api\obj\Debug\net6.0\MISA.CUKCUK.Api.MvcApplicationPartsAssemblyInfo.cache
+D:\Workspace\Thực tâp\Bài tập giai đoạn 2\MISA.CUKCUK.Api\MISA.CUKCUK.Api\obj\Debug\net6.0\staticwebassets.build.json
+D:\Workspace\Thực tâp\Bài tập giai đoạn 2\MISA.CUKCUK.Api\MISA.CUKCUK.Api\obj\Debug\net6.0\staticwebassets.development.json
+D:\Workspace\Thực tâp\Bài tập giai đoạn 2\MISA.CUKCUK.Api\MISA.CUKCUK.Api\obj\Debug\net6.0\scopedcss\bundle\MISA.CUKCUK.Api.styles.css
+D:\Workspace\Thực tâp\Bài tập giai đoạn 2\MISA.CUKCUK.Api\MISA.CUKCUK.Api\obj\Debug\net6.0\MISA.CUKCUK.Api.csproj.CopyComplete
+D:\Workspace\Thực tâp\Bài tập giai đoạn 2\MISA.CUKCUK.Api\MISA.CUKCUK.Api\obj\Debug\net6.0\MISA.CUKCUK.Api.dll
+D:\Workspace\Thực tâp\Bài tập giai đoạn 2\MISA.CUKCUK.Api\MISA.CUKCUK.Api\obj\Debug\net6.0\refint\MISA.CUKCUK.Api.dll
+D:\Workspace\Thực tâp\Bài tập giai đoạn 2\MISA.CUKCUK.Api\MISA.CUKCUK.Api\obj\Debug\net6.0\MISA.CUKCUK.Api.pdb
+D:\Workspace\Thực tâp\Bài tập giai đoạn 2\MISA.CUKCUK.Api\MISA.CUKCUK.Api\obj\Debug\net6.0\MISA.CUKCUK.Api.genruntimeconfig.cache
+D:\Workspace\Thực tâp\Bài tập giai đoạn 2\MISA.CUKCUK.Api\MISA.CUKCUK.Api\obj\Debug\net6.0\ref\MISA.CUKCUK.Api.dll
+D:\Workspace\Thực tâp\Bài tập giai đoạn 2\MISA.CUKCUK.Api\MISA.CUKCUK.Api\bin\Debug\net6.0\Dapper.dll
+D:\Workspace\Thực tâp\Bài tập giai đoạn 2\MISA.CUKCUK.Api\MISA.CUKCUK.Api\bin\Debug\net6.0\MySqlConnector.dll
+D:\Workspace\Thực tâp\Bài tập giai đoạn 2\MISA.CUKCUK.Api\MISA.CUKCUK.Api\bin\Debug\net6.0\MISA.Web05.Infrastructure.dll
+D:\Workspace\Thực tâp\Bài tập giai đoạn 2\MISA.CUKCUK.Api\MISA.CUKCUK.Api\bin\Debug\net6.0\MISA.Web05.Infrastructure.pdb
+E:\Document\NVCHINH\GD2\NguyenVanChinh\MISA.CUKCUK.Api\MISA.CUKCUK.Api\bin\Debug\net6.0\appsettings.Development.json
+E:\Document\NVCHINH\GD2\NguyenVanChinh\MISA.CUKCUK.Api\MISA.CUKCUK.Api\bin\Debug\net6.0\appsettings.json
+E:\Document\NVCHINH\GD2\NguyenVanChinh\MISA.CUKCUK.Api\MISA.CUKCUK.Api\bin\Debug\net6.0\MISA.CUKCUK.Api.exe
+E:\Document\NVCHINH\GD2\NguyenVanChinh\MISA.CUKCUK.Api\MISA.CUKCUK.Api\bin\Debug\net6.0\MISA.CUKCUK.Api.deps.json
+E:\Document\NVCHINH\GD2\NguyenVanChinh\MISA.CUKCUK.Api\MISA.CUKCUK.Api\bin\Debug\net6.0\MISA.CUKCUK.Api.runtimeconfig.json
+E:\Document\NVCHINH\GD2\NguyenVanChinh\MISA.CUKCUK.Api\MISA.CUKCUK.Api\bin\Debug\net6.0\MISA.CUKCUK.Api.dll
+E:\Document\NVCHINH\GD2\NguyenVanChinh\MISA.CUKCUK.Api\MISA.CUKCUK.Api\bin\Debug\net6.0\MISA.CUKCUK.Api.pdb
+E:\Document\NVCHINH\GD2\NguyenVanChinh\MISA.CUKCUK.Api\MISA.CUKCUK.Api\bin\Debug\net6.0\Dapper.dll
+E:\Document\NVCHINH\GD2\NguyenVanChinh\MISA.CUKCUK.Api\MISA.CUKCUK.Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\Document\NVCHINH\GD2\NguyenVanChinh\MISA.CUKCUK.Api\MISA.CUKCUK.Api\bin\Debug\net6.0\MySqlConnector.dll
+E:\Document\NVCHINH\GD2\NguyenVanChinh\MISA.CUKCUK.Api\MISA.CUKCUK.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Document\NVCHINH\GD2\NguyenVanChinh\MISA.CUKCUK.Api\MISA.CUKCUK.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Document\NVCHINH\GD2\NguyenVanChinh\MISA.CUKCUK.Api\MISA.CUKCUK.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Document\NVCHINH\GD2\NguyenVanChinh\MISA.CUKCUK.Api\MISA.CUKCUK.Api\bin\Debug\net6.0\MISA.CUKCUK.Core.dll
+E:\Document\NVCHINH\GD2\NguyenVanChinh\MISA.CUKCUK.Api\MISA.CUKCUK.Api\bin\Debug\net6.0\MISA.Web05.Infrastructure.dll
+E:\Document\NVCHINH\GD2\NguyenVanChinh\MISA.CUKCUK.Api\MISA.CUKCUK.Api\bin\Debug\net6.0\MISA.CUKCUK.Core.pdb
+E:\Document\NVCHINH\GD2\NguyenVanChinh\MISA.CUKCUK.Api\MISA.CUKCUK.Api\bin\Debug\net6.0\MISA.Web05.Infrastructure.pdb
+E:\Document\NVCHINH\GD2\NguyenVanChinh\MISA.CUKCUK.Api\MISA.CUKCUK.Api\obj\Debug\net6.0\MISA.CUKCUK.Api.csproj.AssemblyReference.cache
+E:\Document\NVCHINH\GD2\NguyenVanChinh\MISA.CUKCUK.Api\MISA.CUKCUK.Api\obj\Debug\net6.0\MISA.CUKCUK.Api.GeneratedMSBuildEditorConfig.editorconfig
+E:\Document\NVCHINH\GD2\NguyenVanChinh\MISA.CUKCUK.Api\MISA.CUKCUK.Api\obj\Debug\net6.0\MISA.CUKCUK.Api.AssemblyInfoInputs.cache
+E:\Document\NVCHINH\GD2\NguyenVanChinh\MISA.CUKCUK.Api\MISA.CUKCUK.Api\obj\Debug\net6.0\MISA.CUKCUK.Api.AssemblyInfo.cs
+E:\Document\NVCHINH\GD2\NguyenVanChinh\MISA.CUKCUK.Api\MISA.CUKCUK.Api\obj\Debug\net6.0\MISA.CUKCUK.Api.csproj.CoreCompileInputs.cache
+E:\Document\NVCHINH\GD2\NguyenVanChinh\MISA.CUKCUK.Api\MISA.CUKCUK.Api\obj\Debug\net6.0\MISA.CUKCUK.Api.MvcApplicationPartsAssemblyInfo.cs
+E:\Document\NVCHINH\GD2\NguyenVanChinh\MISA.CUKCUK.Api\MISA.CUKCUK.Api\obj\Debug\net6.0\MISA.CUKCUK.Api.MvcApplicationPartsAssemblyInfo.cache
+E:\Document\NVCHINH\GD2\NguyenVanChinh\MISA.CUKCUK.Api\MISA.CUKCUK.Api\obj\Debug\net6.0\staticwebassets.build.json
+E:\Document\NVCHINH\GD2\NguyenVanChinh\MISA.CUKCUK.Api\MISA.CUKCUK.Api\obj\Debug\net6.0\staticwebassets.development.json
+E:\Document\NVCHINH\GD2\NguyenVanChinh\MISA.CUKCUK.Api\MISA.CUKCUK.Api\obj\Debug\net6.0\scopedcss\bundle\MISA.CUKCUK.Api.styles.css
+E:\Document\NVCHINH\GD2\NguyenVanChinh\MISA.CUKCUK.Api\MISA.CUKCUK.Api\obj\Debug\net6.0\MISA.CUKCUK.Api.csproj.CopyComplete
+E:\Document\NVCHINH\GD2\NguyenVanChinh\MISA.CUKCUK.Api\MISA.CUKCUK.Api\obj\Debug\net6.0\MISA.CUKCUK.Api.dll
+E:\Document\NVCHINH\GD2\NguyenVanChinh\MISA.CUKCUK.Api\MISA.CUKCUK.Api\obj\Debug\net6.0\refint\MISA.CUKCUK.Api.dll
+E:\Document\NVCHINH\GD2\NguyenVanChinh\MISA.CUKCUK.Api\MISA.CUKCUK.Api\obj\Debug\net6.0\MISA.CUKCUK.Api.pdb
+E:\Document\NVCHINH\GD2\NguyenVanChinh\MISA.CUKCUK.Api\MISA.CUKCUK.Api\obj\Debug\net6.0\MISA.CUKCUK.Api.genruntimeconfig.cache
+E:\Document\NVCHINH\GD2\NguyenVanChinh\MISA.CUKCUK.Api\MISA.CUKCUK.Api\obj\Debug\net6.0\ref\MISA.CUKCUK.Api.dll
+E:\Document\NVCHINH\GD2\NguyenVanChinh\MISA.CUKCUK.Api\MISA.CUKCUK.Api\bin\Debug\net6.0\AWSSDK.Core.dll
+E:\Document\NVCHINH\GD2\NguyenVanChinh\MISA.CUKCUK.Api\MISA.CUKCUK.Api\bin\Debug\net6.0\System.Data.SqlClient.dll
+E:\Document\NVCHINH\GD2\NguyenVanChinh\MISA.CUKCUK.Api\MISA.CUKCUK.Api\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+E:\Document\NVCHINH\GD2\NguyenVanChinh\MISA.CUKCUK.Api\MISA.CUKCUK.Api\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+E:\Document\NVCHINH\GD2\NguyenVanChinh\MISA.CUKCUK.Api\MISA.CUKCUK.Api\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+E:\Document\NVCHINH\GD2\NguyenVanChinh\MISA.CUKCUK.Api\MISA.CUKCUK.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Document\NVCHINH\GD2\NguyenVanChinh\MISA.CUKCUK.Api\MISA.CUKCUK.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Document\NVCHINH\GD2\NguyenVanChinh\MISA.CUKCUK.Api\MISA.CUKCUK.Api\bin\Debug\net6.0\MISA.CUKCUK.Api.xml
+E:\Document\NVCHINH\GD2\NguyenVanChinh\MISA.CUKCUK.Api\MISA.CUKCUK.Api\obj\Debug\net6.0\MISA.CUKCUK.Api.xml
